@@ -1,4 +1,5 @@
 ## 1.0.0
 
 * Fix for Classic output
+* Update Classic Version
 
